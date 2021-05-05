@@ -10,3 +10,5 @@ let random = Math.floor(Math.random())+1
 let num3 = 14
 let num4 = 5
 let mod = num3 % num4 
+
+let max = Math.max(1, 2,3,4,5,20)
